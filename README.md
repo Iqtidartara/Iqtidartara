@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @Iqtidartara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Iqtidar Tara</h1>
+<h3 align="center">A passionate web developer from pakistan</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqtidartara&label=Profile%20views&color=yellow&abbreviated=true" alt="iqtidartara" /> </p>
 
-<!---
-Iqtidartara/Iqtidartara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-15&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="muzammil-15" /></a> </p>
+
+ 
+<div align="center"> 
+  <a href="muzammilalyari15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/muzammil-hussain-a72187262/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://muzammil-dev.netlify.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
+</div>
+
+<br/>
+
+<div align="center"> <h2>⚡ My Github Stats ⚡</h2> 
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=muzammil-15&show_icons=true&locale=en&theme=tokyonight" alt="muzammil-15" /></p>
+<div/>
