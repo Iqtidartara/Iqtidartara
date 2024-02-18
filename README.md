@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Iqtidar Tara</h1>
-<h3 align="center">A passionate web developer from pakistan</h3>
+<h3 align="center">A passionate web developer from  Gilgit, pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqtidartara&label=Profile%20views&color=yellow&abbreviated=true" alt="iqtidartara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-15&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="muzammil-15" /></a> </p>
 
  
 <div align="center"> 
-  <a href="muzammilalyari15@gmail.com">
+  <a href="hussainiqtidar80@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/muzammil-hussain-a72187262/" target="_blank">
@@ -27,5 +27,5 @@
 <br/>
 
 <div align="center"> <h2>⚡ My Github Stats ⚡</h2> 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=muzammil-15&show_icons=true&locale=en&theme=tokyonight" alt="muzammil-15" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=iqtidartara&show_icons=true&locale=en&theme=tokyonight" alt="muzammil-15" /></p>
 <div/>
