@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">GitHub Profile Trophy</h2>
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+</p>
 <h1 align="center">Hi 👋, I'm Iqtidar Tara</h1>
 <h3 align="center">I am experienced web developer from  Gilgit, pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqtidartara&label=Profile%20views&color=yellow&abbreviated=true" alt="iqtidartara" /> </p>
