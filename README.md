@@ -7,7 +7,7 @@
 <h3 align="center">I am experienced web developer from  Gilgit, pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqtidartara&label=Profile%20views&color=yellow&abbreviated=true" alt="iqtidartara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-15&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="muzammil-15" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-15&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="Iqtidartara" /></a> </p>
 
  
 <div align="center"> 
@@ -32,5 +32,5 @@
 <br/>
 
 <div align="center"> <h2>⚡ My Github Stats ⚡</h2> 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=iqtidartara&show_icons=true&locale=en&theme=tokyonight" alt="muzammil-15" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=iqtidartara&show_icons=true&locale=en&theme=tokyonight" alt="Iqtidartara" /></p>
 <div/>
