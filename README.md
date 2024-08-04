@@ -4,7 +4,7 @@
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
 </p>
 <h1 align="center">Hi 👋, I'm Iqtidar Tara</h1>
-<h3 align="center">I am experienced web developer from  Gilgit, pakistan</h3>
+<h3 align="center">I am experienced web developer from  Gilgit Bilawaristan, pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqtidartara&label=Profile%20views&color=yellow&abbreviated=true" alt="iqtidartara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-15&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="Iqtidartara" /></a> </p>
