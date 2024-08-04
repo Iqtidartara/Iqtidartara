@@ -3,21 +3,21 @@
   <h2 align="center">GitHub Profile Trophy</h2>
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
 </p>
-<h1 align="center">Hi 👋, I'm Ali Murtaza</h1>
-<h3 align="center">I am experienced App developer from  Gilgit, pakistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqtidartara&label=Profile%20views&color=yellow&abbreviated=true" alt="alimurtaza" /> </p>
+<h1 align="center">Hi 👋, I'm Iqtidar Tara</h1>
+<h3 align="center">I am experienced web developer from  Gilgit Bilawaristan, pakistan</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqtidartara&label=Profile%20views&color=yellow&abbreviated=true" alt="iqtidartara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-15&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="ali murtaza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-15&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="Iqtidartara" /></a> </p>
 
  
 <div align="center"> 
-  <a href="liaqatalimurtaza3304@gmail.com">
+  <a href="hussainiqtidar80@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/ali-murtaza-27679822a/" target="_blank">
+  <a href="https://www.linkedin.com/in/iqtidar-developer-react-js-213372289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/murtaza3304" target="_blank">
+  <a href="https://www.designify.design/#portfolio" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -32,5 +32,5 @@
 <br/>
 
 <div align="center"> <h2>⚡ My Github Stats ⚡</h2> 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=iqtidartara&show_icons=true&locale=en&theme=tokyonight" alt="alimurtaza" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=iqtidartara&show_icons=true&locale=en&theme=tokyonight" alt="Iqtidartara" /></p>
 <div/>
